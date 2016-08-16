@@ -1,0 +1,22 @@
+{
+  "name": "josh/instagram",
+  "description": "Post to the instagram",
+  "type": "library",
+  "require": {
+    "php": ">=5.5",
+    "josh/ibrowse": "dev-master"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Alireza",
+      "email": "josheghani.dev@gmail.com"
+    }
+  ],
+  "autoload":{
+    "psr-4":[
+      "Instagram\\" : "src/"
+    ]
+  },
+  "minimum-stability": "dev"
+}
