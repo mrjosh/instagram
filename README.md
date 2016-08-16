@@ -2,7 +2,7 @@
 
 ## Install with composer 
 ```
-composer require josh/ibrowse:dev-master
+composer require josh/instagram:dev-master
 ```
 
 ## Example
