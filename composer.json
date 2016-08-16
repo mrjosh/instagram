@@ -14,9 +14,9 @@
     }
   ],
   "autoload":{
-    "psr-4":[
-      "Instagram\\" : "src/"
-    ]
+    "psr-4":{
+      "Instagram\\": "src/"
+    }
   },
   "minimum-stability": "dev"
 }
