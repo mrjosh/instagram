@@ -1,5 +1,5 @@
 {
-  "name": "josh/instagram",
+  "name": "instagram/client",
   "description": "Instagram post client",
   "type": "library",
   "authors": [
