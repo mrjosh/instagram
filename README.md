@@ -2,7 +2,7 @@
 
 ## Install with composer 
 ```
-composer require josh/instagram
+composer require instagram/client
 ```
 
 ## Example
